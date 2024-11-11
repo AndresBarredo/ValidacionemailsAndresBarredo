@@ -1,0 +1,7 @@
+2024-11-11 13:08:51,750 - WARNING - El correo 'correo.sin.arroba' es inválido.
+2024-11-11 13:08:51,750 - WARNING - El correo 'incorrecto@.com' es inválido.
+2024-11-11 13:08:51,751 - WARNING - El correo 'incorrecto@dominio' es inválido.
+2024-11-11 13:08:51,753 - ERROR - El valor de correo debe ser una cadena.
+2024-11-11 13:08:51,754 - ERROR - Error al validar el correo: El correo debe ser una cadena.
+2024-11-11 13:08:51,758 - INFO - El correo 'ejemplo.email@dominio.com' es válido.
+2024-11-11 13:08:51,758 - INFO - El correo 'nombre.apellido@subdominio.dominio.com' es válido.
